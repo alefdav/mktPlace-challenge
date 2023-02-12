@@ -1,5 +1,29 @@
 # Desafio FrontEnd - OW Interactive
 
+# Marketplace Challenge
+
+Tecnologias utilizadas:
+
+- VueJS
+- VueCLI
+- Bootstrap Grid
+- SCSS
+- ESLint e Prettier
+- ViaCep
+- Axios
+
+## Descrição
+
+Marketplace feito em VueJS, utilizando a API [via-cep](https://viacep.com.br/) para o completar o endereço usando o CEP e uma API fornecida pela OW para produtos.
+
+## Para executar
+
+Para executar a aplicação basta clonar o respositório, abrir o terminar e executar os seguintes comandos:
+
+```bash
+npm install && npm run serve
+```
+
 ## Sobre a OW Interactive
 
 Fazemos parte do universo digital, focada em criar e desenvolver experiências interativas, integrando planejamento, criatividade e tecnologia. Conheça mais sobre nós em: [OW Interactive - Quem somos](http://www.owinteractive.com/quem-somos/).
